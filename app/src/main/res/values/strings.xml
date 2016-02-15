@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Api</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="array1">
+        <item>IMG1</item>
+        <item>IMG2</item>
+        <item>IMG3</item>
+        <item>IMG4</item>
+        <item>IMG5</item>
+        <item>IMG6</item>
+
+    </string-array>
+    <string-array name="urls1">
+        <item>http://carsranking.com/wp-content/uploads/2012/11/2012-Honda-Civic-Si.jpg</item>
+        <item>http://carsranking.com/wp-content/uploads/2012/11/2012-Honda-Civic-Si.jpg</item>
+        <item>http://carsranking.com/wp-content/uploads/2012/11/2012-Hyundai-Genesis-Coupe.jpg</item>
+        <item>http://carsranking.com/wp-content/uploads/2012/11/2012-Honda-Civic-Si.jpg</item>
+        <item>http://carsranking.com/wp-content/uploads/2012/11/2012-Hyundai-Genesis-Coupe.jpg</item>
+
+
+    </string-array>
+</resources>
